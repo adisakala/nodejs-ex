@@ -27,6 +27,7 @@
   * [License](#license)
 
 <!-- tocstop -->
+[![Contribute](https://che.openshift.io/factory/resources/factory-contribute.svg)](https://che.openshift.io/f?name=lxdemofactory&user=asakala-osio)
 
 ## Node.js sample app on OpenShift!
 -----------------
